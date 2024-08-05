@@ -1,0 +1,48 @@
+_repo: Cenizas_73965
+_version: 0.0.1
+alternative_title: Cenere. Spanish
+contributor:
+  translator:
+    agent_name: Domenge Mir, Miguel
+    alias: Mir, Miguel Domenge
+    birthdate: 1870
+    deathdate: 1936
+    gutenberg_agent_id: '57291'
+    url: http://www.gutenberg.org/2009/agents/57291
+creator:
+  author:
+    agent_name: Deledda, Grazia
+    aliases:
+    - Madesani, Grazia Deledda
+    - Deledda, Maria Grazia Cosima
+    birthdate: 1871
+    deathdate: 1936
+    gutenberg_agent_id: '33472'
+    url: http://www.gutenberg.org/2009/agents/33472
+    wikipedia:
+    - https://it.wikipedia.org/wiki/Grazia_Deledda
+    - https://en.wikipedia.org/wiki/Grazia_Deledda
+description: ''
+gutenberg_issued: '2024-07-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73965'
+language: es
+pgterms:marc904: http://bdh-rd.bne.es/viewer.vm?id=0000257048&page=1
+pgterms:marc905: 20230407145832deledda
+pgterms:marc906: '1906'
+pgterms:marc907: ES
+production_note: Andrés V. Galia and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (Biblioteca Nacional de España. )
+publication_note: '  $aBarcelona :$bHeinrich & C, $c1906.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Unmarried mothers -- Fiction'
+- !lcsh 'Parent and child -- Fiction'
+- !lcsh 'Sardinia (Italy) -- Social life and customs -- Fiction'
+- !lcc 'PQ'
+- GITenberg
+title: Cenizas
+url: http://www.gutenberg.org/ebooks/73965
